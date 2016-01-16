@@ -1,0 +1,1 @@
+//require("style!css!less!./react-widgets-styles!./react-widgets.config.js");
