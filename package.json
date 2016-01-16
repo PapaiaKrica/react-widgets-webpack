@@ -20,6 +20,13 @@
   "peerDependencies": {
     "react-widgets": ">=3.1.6 "
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PapaiaKrica/react-widgets-webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PapaiaKrica/react-widgets-webpack/issues"
+  },
   "author": "Emanuel Fernandes <efernandes@tektorque.com>",
   "license": "MIT"
 }
