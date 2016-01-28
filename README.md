@@ -67,7 +67,9 @@ module.exports = {
 
     'core': true,
     'popup': true,
-    'datepicker': true
+    'datepicker': true,
+    'selectlist': true,
+    'multiselect': true
   }
 };
 ```
